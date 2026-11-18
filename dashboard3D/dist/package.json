@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.2",
+		"author": {"name":"Oliveira Walter","email":"maximo.alvesdeoliveira@gmail.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/dashboard3DE4D8EBF5CE3142BBABD6BB199CD68933.pbiviz.json"
+			}
+		],
+		"visual": {"name":"dashboard3D","displayName":"Dashboard 3D","guid":"dashboard3DE4D8EBF5CE3142BBABD6BB199CD68933","visualClassName":"Visual","version":"1.0.0.2","description":"Visual personalizado 3D para comparação de valores realizados e metas.","supportUrl":"https://github.com/Waalter-Git/powerbi-dashboard-3d","gitHubUrl":"https://github.com/Waalter-Git/powerbi-dashboard-3d"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
